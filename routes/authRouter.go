@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controller "go-jwt/controllers"
+	controller "github.com/edendattox/go-jwt/controllers"
 
 	"github.com/gin-gonic/gin"
 )
